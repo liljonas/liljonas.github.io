@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Youness Oumlil & this is my blog where I post stuff about 
+# Hi there 👋 I'm Youness Oumlil, this is my personal blog where I post articles about pentest & write-ups
 
-🎯 **Junior Penetration Tester** | Offensive Security Enthusiast  
+### 🎯 **Junior Penetration Tester** | Offensive Security Enthusiast  
 
 --- 
 
