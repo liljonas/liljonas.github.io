@@ -29,7 +29,7 @@ github:
   username: liljonas # change to your GitHub username
 
 twitter:
-  username: Yanny0002 # change to your Twitter username
+  username: lil_j0nas # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/liljonas # change to your GitHub homepage
-    - https://twitter.com/Yanny0002 # change to your Twitter homepage
+    - https://twitter.com/lil_j0nas # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/youness-oumlil
