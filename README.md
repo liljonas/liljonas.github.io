@@ -9,9 +9,8 @@
 - 🔍 Skilled in **vulnerability exploitation, web app testing, and exploit development**  
 - 🛠️ Built projects like:  
   - Windows **rootkit** using C++ and Windows internals  
-  - **Deliberately Insecure Web App** with OWASP Top 10 flaws + secure coding guide  
-  - Privilege Access Management (PAM) system  
-
+  - **Deliberately Insecure Web App** with OWASP Top 10 flaws + secure coding guide
+    
 ---
 
 ## 🧰 Technical Toolbox  
@@ -27,7 +26,7 @@
 - 🎓 TryHackMe **Junior Penetration Tester**  
 - 🐧 Linux LPIC 101/102 | 🪟 Windows WS 101/102  
 - ⚡ Active participant in **CTFs, HackTheBox, TryHackMe**  
-- 🎤 Regular attendee of **BlackHat, OWASP, DEF CON, BSides**  
+- 🎤 Regular attendee of **BlackHat, OWASP, BSides**  
 
 ---
 
