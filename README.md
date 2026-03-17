@@ -33,4 +33,3 @@
 ## 🌍 Connect With Me  
 - 📫 [Email](mailto:oumlil.ynss@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/youness-oumlil)  
-- 🐙 [GitHub](https://github.com/liljonas)
